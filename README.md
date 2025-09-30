@@ -1,7 +1,9 @@
 #  Wonderla Rides Section Clone
 
-The Wonderla Rides Section UI is a frontend implementation built using React and Tailwind CSS as part of a frontend assignment. It focuses on recreating the engaging and visually appealing ride section of Wonderla’s website, ensuring a responsive, clean, and interactive design. The project demonstrates component-based development, utility-first styling with Tailwind, and attention to user experience. 
-You can explore the deployed version here: wonderla-mainpage-rebuild.vercel.app
+The Wonderla Rides Section UI is a frontend implementation built using React and Tailwind CSS as part of a frontend assignment.
+It focuses on recreating the engaging and visually appealing ride section of Wonderla’s website, ensuring a responsive, clean, and interactive design.
+The project demonstrates component-based development, utility-first styling with Tailwind, and attention to user experience. 
+You can explore the deployed version here: [wonderla-mainpage-rebuild.vercel.app](wonderla-mainpage-rebuild.vercel.app)
 ---
 
 ## Features
